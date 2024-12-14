@@ -6,14 +6,19 @@ Before creating my Securiry Group, i set my region to North Virginia.
 
 I selected an EC2 instance, then Security Group. 
 
-I created a Security Group name oluchiestherezeigbo_litaSG.
+#### Security Group Name
+I created a Security Group named oluchiestherezeigbo_litaSG.
 
+#### Security Group Description
 My Security Group description is to allow SSH and HTTP Traffic. 
 
+#### Security Group VPC
 I used lita_project_vpc for the VPC.
 
+#### Security Group Inbound Rules
 I added inbound rules to allow SSH traffic and allow it to be accessed from anywhere IPV4. I also allow for HTTP and allow it to access from anywhere IPV4.
 
+#### Security Group Outbound Rules
 I added outbound rules to allow all traffic to go out.
 
 Then i saved my security Group.
