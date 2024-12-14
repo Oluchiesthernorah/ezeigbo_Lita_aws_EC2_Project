@@ -27,6 +27,21 @@ The Instance type used was t2.micro.
 
 I created a keypair named oluchiesrhernorah_lita_kp.
 
+For my Network setting, I selected the lita project vpc
+
+I made my EC2 instance subnet public, so that it can be accessed from anywhere via the internet. 
+
+I also enabled auto-assign public IP
+
+I selected the Security Group i created then Launched my Instance
+
+#### Connect to EC2 Instance 
+I conneced to EC2 instance by selecting my instance and clicking connect
+
+### Deploying Apache
+I located my key pair in my downloadeds. Then I used the command prompt to connect my EC2 instance by typing 'cd Downlods' press Enter. I copied my instance example from my SSH and pasted it in my command prompt and pressed enter.
+I also used the command prompt to install Apache web server
+
 
 
 
