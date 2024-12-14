@@ -1,6 +1,7 @@
 # Ezeigbo_Lita_aws_EC2_Project
 This is the process of creating Security Group, launching EC2 Instance and deploying Apache web server
 
+
 ### Security Group Creation
 Before creating my Securiry Group, i set my region to North Virginia.
 
@@ -22,6 +23,7 @@ I added inbound rules to allow SSH traffic and allow it to be accessed from anyw
 I added outbound rules to allow all traffic to go out.
 
 #### Then i saved my security Group.
+
 
 ### EC2 Instance Launching
 I launched an instance and named it estherezeigbo_lita. 
@@ -48,6 +50,7 @@ I also enabled auto-assign public IP
 I selected the Security Group i created named oluchiestherezeigbo_litaSG.
 
 #### Then I Launched my Instance
+
 
 ### Deploying Apache
 
