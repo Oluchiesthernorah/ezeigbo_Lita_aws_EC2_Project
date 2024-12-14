@@ -26,6 +26,11 @@ I added outbound rules to allow all traffic to go out.
 
 #### Then i saved my security Group.
 
+![Security Group](https://github.com/user-attachments/assets/1ea58d73-088d-4e3b-935c-c3972f1ed51f)
+
+
+![Ezeigbo_Instance](https://github.com/user-attachments/assets/352b1765-68b0-45c9-aea7-e1d261ef0c09)
+
 
 ### EC2 Instance Launching
 I launched an instance and named it estherezeigbo_lita. 
@@ -53,6 +58,8 @@ I selected the Security Group i created, named oluchiestherezeigbo_litaSG.
 
 #### Then I Launched my Instance
 
+![Instance](https://github.com/user-attachments/assets/60a1e5d2-87de-469e-8e17-c0392dccba74)
+
 
 ### Deploying Apache
 
@@ -69,3 +76,5 @@ To connect my Instance, I copied my instance example from my SSH and pasted it i
 
 #### Apache
 I also used the command prompt to install Apache web server
+
+![Apache](https://github.com/user-attachments/assets/dc8b19ed-7c3c-472b-a792-890cd3c55634)
