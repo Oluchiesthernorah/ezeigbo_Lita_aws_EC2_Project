@@ -5,7 +5,7 @@ This is the process of creating Security Group, launching EC2 Instance and deplo
 ### Security Group Creation
 Before creating my Securiry Group, i set my region to North Virginia.
 
-I selected an EC2 instance, then Security Group. 
+I selected an EC2 instance, then selected Security Group. 
 
 #### Security Group Name
 I created a Security Group named oluchiestherezeigbo_litaSG.
@@ -17,7 +17,9 @@ My Security Group description is to allow SSH and HTTP Traffic.
 I used lita_project_vpc for the VPC.
 
 #### Security Group Inbound Rules
-I added inbound rules to allow SSH traffic and allow it to be accessed from anywhere IPV4. I also allow for HTTP and allow it to access from anywhere IPV4.
+I added inbound rules to allow SSH traffic and allow it to be accessed from anywhere IPV4. 
+
+I also allow for HTTP and allow it to be accessed from anywhere IPV4.
 
 #### Security Group Outbound Rules
 I added outbound rules to allow all traffic to go out.
@@ -47,7 +49,7 @@ I made my EC2 instance subnet public, so that it can be accessed from anywhere v
 I also enabled auto-assign public IP
 
 #### EC2 Instance Security Group 
-I selected the Security Group i created named oluchiestherezeigbo_litaSG.
+I selected the Security Group i created, named oluchiestherezeigbo_litaSG.
 
 #### Then I Launched my Instance
 
@@ -63,7 +65,6 @@ I located my key pair in my downloadeds.
 #### Command Prompt
 Then I used the command prompt to connect my EC2 instance by typing 'cd Downlods' press Enter. 
 
-#### Instance
 To connect my Instance, I copied my instance example from my SSH and pasted it in my command prompt and pressed enter.
 
 #### Apache
