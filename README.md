@@ -21,32 +21,44 @@ I added inbound rules to allow SSH traffic and allow it to be accessed from anyw
 #### Security Group Outbound Rules
 I added outbound rules to allow all traffic to go out.
 
-Then i saved my security Group.
+#### Then i saved my security Group.
 
 ### Launch EC2 Instance
-I launched and instance and named it estherezeigbo_lita. 
+I launched an instance and named it estherezeigbo_lita. 
 
+#### Amazon Type
 I chose Amazon linux 2 AMI (HVM). kernel 5.10.SSD volume type.
 
+#### Instance Type Used
 The Instance type used was t2.micro.
 
+#### Key Pair Creation
 I created a keypair named oluchiesrhernorah_lita_kp.
 
+#### Instance Network Setting
 For my Network setting, I selected the lita project vpc
 
+#### EC2 Instance Subnet
 I made my EC2 instance subnet public, so that it can be accessed from anywhere via the internet. 
 
+#### EC2 Instance IP
 I also enabled auto-assign public IP
 
-I selected the Security Group i created then Launched my Instance
+#### EC2 Instance Security Group 
+I selected the Security Group i created named oluchiestherezeigbo_litaSG.
 
-#### Connect to EC2 Instance 
-I conneced to EC2 instance by selecting my instance and clicking connect
+#### Then I Launched my Instance
 
 ### Deploying Apache
-I located my key pair in my downloadeds. Then I used the command prompt to connect my EC2 instance by typing 'cd Downlods' press Enter. I copied my instance example from my SSH and pasted it in my command prompt and pressed enter.
+
+#### Connecting to EC2
+I connected to EC2 instance by selecting my instance and clicking connect
+
+#### Key Pair
+I located my key pair in my downloadeds. 
+
+Then I used the command prompt to connect my EC2 instance by typing 'cd Downlods' press Enter. 
+
+I copied my instance example from my SSH and pasted it in my command prompt and pressed enter.
+
 I also used the command prompt to install Apache web server
-
-
-
-
