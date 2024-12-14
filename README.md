@@ -23,7 +23,7 @@ I added outbound rules to allow all traffic to go out.
 
 #### Then i saved my security Group.
 
-### Launch EC2 Instance
+### EC2 Instance Launching
 I launched an instance and named it estherezeigbo_lita. 
 
 #### Amazon Type
@@ -57,8 +57,11 @@ I connected to EC2 instance by selecting my instance and clicking connect
 #### Key Pair
 I located my key pair in my downloadeds. 
 
+#### Command Prompt
 Then I used the command prompt to connect my EC2 instance by typing 'cd Downlods' press Enter. 
 
-I copied my instance example from my SSH and pasted it in my command prompt and pressed enter.
+#### Instance
+To connect my Instance, I copied my instance example from my SSH and pasted it in my command prompt and pressed enter.
 
+#### Apache
 I also used the command prompt to install Apache web server
