@@ -28,6 +28,7 @@ I added outbound rules to allow all traffic to go out.
 
 ![Security Group](https://github.com/user-attachments/assets/1ea58d73-088d-4e3b-935c-c3972f1ed51f)
 
+#### Security Group Created Successfully
 
 ![Ezeigbo_Instance](https://github.com/user-attachments/assets/352b1765-68b0-45c9-aea7-e1d261ef0c09)
 
