@@ -81,6 +81,7 @@ I also used the command prompt to install Apache web server
 ![Apache](https://github.com/user-attachments/assets/dc8b19ed-7c3c-472b-a792-890cd3c55634)
 
 
+#### Apache was also tested
 ![Apachue Deployed](https://github.com/user-attachments/assets/afc1bea4-9578-48d5-acd2-5c8bc6c4f140)
 
 
