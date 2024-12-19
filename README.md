@@ -1,9 +1,13 @@
 # Ezeigbo_Lita_aws_EC2_Project
 This is the process of creating Security Group, launching EC2 Instance and deploying Apache web server
 
-[Project Title](#project-title)
 [Security Group Creation](Security-Group-Creation)
-### Security Group Creation
+
+[EC2 Instance Launching](EC2-Instance-Launching)
+
+[Deploying Apache](Deploying-Apache)
+
+## Security Group Creation
 Before creating my Securiry Group, i set my region to North Virginia.
 
 I selected an EC2 instance, then selected Security Group. 
@@ -34,7 +38,7 @@ I added outbound rules to allow all traffic to go out.
 ![Ezeigbo_Instance](https://github.com/user-attachments/assets/352b1765-68b0-45c9-aea7-e1d261ef0c09)
 
 
-### EC2 Instance Launching
+## EC2 Instance Launching
 I launched an instance and named it estherezeigbo_lita. 
 
 #### Amazon Type
@@ -63,7 +67,7 @@ I selected the Security Group i created, named oluchiestherezeigbo_litaSG.
 ![Instance](https://github.com/user-attachments/assets/60a1e5d2-87de-469e-8e17-c0392dccba74)
 
 
-### Deploying Apache
+## Deploying Apache
 
 #### Connecting to EC2
 I connected to EC2 instance by selecting my instance and clicking connect
