@@ -84,4 +84,5 @@ I also used the command prompt to install Apache web server
 #### Apache was also tested
 ![Apachue Deployed](https://github.com/user-attachments/assets/afc1bea4-9578-48d5-acd2-5c8bc6c4f140)
 
-
+#### My Public IPV4 Address
+54.164.196.63
