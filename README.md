@@ -1,14 +1,15 @@
 # Ezeigbo_Lita_aws_EC2_Project
 
-[Security Group Creation](Security-Group-Creation)
+[Project Title](#project-title)
+[Security Group Creation](#Security-Group-Creation)
 
-[EC2 Instance Launching](EC2-Instance-Launching)
+[EC2 Instance Launching](#EC2-Instance-Launching)
 
-[Deploying Apache](Deploying-Apache)
+[Deploying Apache](#Deploying-Apache)
 
-## Project Title
+## Project Title:
+### Ezeigbo_Lita_aws_EC2_Project
 
-Ezeigbo_Lita_aws_EC2_Project
 This is the process of creating Security Group, launching EC2 Instance and deploying Apache web server
 
 ## Security Group Creation
