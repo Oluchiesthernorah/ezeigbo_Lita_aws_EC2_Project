@@ -1,7 +1,8 @@
 # Ezeigbo_Lita_aws_EC2_Project
 This is the process of creating Security Group, launching EC2 Instance and deploying Apache web server
 
-
+[Project Title](#project-title)
+[Security Group Creation](Security-Group-Creation)
 ### Security Group Creation
 Before creating my Securiry Group, i set my region to North Virginia.
 
