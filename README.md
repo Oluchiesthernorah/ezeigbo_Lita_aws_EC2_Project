@@ -1,11 +1,12 @@
 # Ezeigbo_Lita_aws_EC2_Project
 
-[Project Title](#project-title)
 [Security Group Creation](#Security-Group-Creation)
 
 [EC2 Instance Launching](#EC2-Instance-Launching)
 
 [Deploying Apache](#Deploying-Apache)
+
+[My Public IPV4 Address](#My-Public-IPV4-Address)
 
 ## Project Title:
 ### Ezeigbo_Lita_aws_EC2_Project
@@ -94,5 +95,5 @@ I also used the command prompt to install Apache web server
 #### Apache was also tested
 ![Apachue Deployed](https://github.com/user-attachments/assets/afc1bea4-9578-48d5-acd2-5c8bc6c4f140)
 
-#### My Public IPV4 Address
+## My Public IPV4 Address
 54.164.196.63
